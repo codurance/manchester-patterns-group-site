@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Hello World title"
+layout: default
+title: "Hello World title"
 ---
 
 # Hello World h1
