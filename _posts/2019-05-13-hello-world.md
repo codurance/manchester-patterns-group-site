@@ -1,8 +1,8 @@
 ---
-layout: default
-title: "Hello World title"
+layout: post
+title: "Hello World"
 ---
 
-# Hello World h1
+# Hello World
 
-Hello World content
+Hi
