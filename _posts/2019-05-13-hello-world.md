@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heelo World title"
+title:  "Hello World title"
 ---
 
 # Hello World h1
