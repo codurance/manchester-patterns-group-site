@@ -10,7 +10,9 @@ Index content
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="manchester-patterns-group-site/{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
+{{ site.url }}
