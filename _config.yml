@@ -1,5 +1,7 @@
 ---
 
+# override default by copying markup from https://github.com/pages-themes/THEME_NAME/blob/master/_layouts/default.html,
+# where THEME_NAME should be replaced by the name of the theme. See https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme#customizing-your-jekyll-themes-html-layout
 theme: jekyll-theme-minimal
  
 # Exclude these files from your production _site
