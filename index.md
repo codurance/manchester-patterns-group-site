@@ -14,5 +14,3 @@ Index content
     </li>
   {% endfor %}
 </ul>
-
-{{ site.url }}
